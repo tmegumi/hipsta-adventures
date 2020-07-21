@@ -1,0 +1,12 @@
+{
+  "name": "hipsta-adventures",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 3010"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
